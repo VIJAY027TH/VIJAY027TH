@@ -1,122 +1,27 @@
-<div align="center">
+# 💫 About Me:
+<div align="center"><br><br># 👋 Hey, I'm Vijay!<br><br>### 🎓 MCA Student | 🛡️ Cybersecurity Enthusiast | 🐍 Python Learner<br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Learning+Python+%26+Linux+%F0%9F%90%8D;Future+Security+Professional+%F0%9F%9A%80" /><br><br></div><br><br>---<br><br># 🧑‍💻 About Me<br><br>🎓 MCA Student  <br>🛡️ Cybersecurity Enthusiast  <br>🐍 Python Learner  <br>💻 Aspiring Security Professional  <br><br>🔭 **Currently working on:** Practical projects and improving my skills in Cybersecurity and Python.<br><br>🌱 **Currently learning:** Cybersecurity, Ethical Hacking, Linux, Networking, Machine Learning, and Big Data Analytics.<br><br>👯 **Looking to collaborate on:** Python projects, Cybersecurity projects, and Open Source projects.<br><br>🤝 **Interested in:** Real-world security projects and SOC environments.<br><br>---<br><br># 💻 Skills & Technologies<br><br><div align="center"><br><br>![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)<br><br>![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)<br>![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)<br><br></div><br><br>---<br><br># 🖥️ My Terminal<br><br>### 👤 whoami<br><br>🎓 MCA Student  <br>🛡️ Cybersecurity Enthusiast  <br>🐍 Python Learner  <br>💻 Aspiring Security Professional  <br><br>### 📂 ~/skills<br><br>🐍 Python  <br>🐧 Linux  <br>🌐 Networking  <br>🛡️ Cybersecurity Fundamentals  <br>🔍 Nmap  <br>📡 Wireshark  <br>🔧 Git & GitHub  <br><br>### 🎯 ~/goal.txt<br><br>> Learn continuously.  <br>> Build practical projects.  <br>> Improve cybersecurity skills.  <br>> Become a skilled security professional.  <br><br>---<br><br># 📊 GitHub Statistics<br><br><div align="center"><br><br><img src="https://github-readme-stats.vercel.app/api?username=VIJAY027TH&show_icons=true&theme=tokyonight&hide_border=true" height="165"/><br><br><img src="https://streak-stats.demolab.com?user=VIJAY027TH&theme=tokyonight&hide_border=true" height="165"/><br><br></div><br><br>---<br><br># 🏆 GitHub Trophies<br><br><div align="center"><br><br><img src="https://github-profile-trophy.vercel.app/?username=VIJAY027TH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/><br><br></div><br><br>---<br><br># 🌐 Connect With Me<br><br><div align="center"><br><br><a href="https://linkedin.com/in/vijay-hacker-11140a368"><br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br></a><br><br><a href="https://instagram.com/iamvijay_4"><br><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><br></a><br><br><a href="mailto:vijayethicalhacker027@gmail.com"><br><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br></a><br><br></div><br><br>---<br><br><div align="center"><br><br>### ⚡ Learning, building, and improving one project at a time.<br><br>⭐ Thanks for visiting my profile!<br><br></div>
 
-# 👋 Hey, I'm Vijay!
 
-### 🎓 MCA Student | 🛡️ Cybersecurity Enthusiast | 🐍 Python Learner
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vijay_hacker_74592) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamvijay_4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-hacker-11140a368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayethicalhacker027th@gmail.com) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Learning+Python+%26+Linux+%F0%9F%90%8D;Future+Security+Professional+%F0%9F%9A%80" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VIJAY027TH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VIJAY027TH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VIJAY027TH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VIJAY027TH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# 🧑‍💻 About Me
-
-🎓 MCA Student  
-🛡️ Cybersecurity Enthusiast  
-🐍 Python Learner  
-💻 Aspiring Security Professional  
-
-🔭 **Currently working on:** Practical projects and improving my skills in Cybersecurity and Python.
-
-🌱 **Currently learning:** Cybersecurity, Ethical Hacking, Linux, Networking, Machine Learning, and Big Data Analytics.
-
-👯 **Looking to collaborate on:** Python projects, Cybersecurity projects, and Open Source projects.
-
-🤝 **Interested in:** Real-world security projects and SOC environments.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VIJAY027TH&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=VIJAY027TH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Skills & Technologies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-
-</div>
-
----
-
-# 🖥️ My Terminal
-
-### 👤 whoami
-
-🎓 MCA Student  
-🛡️ Cybersecurity Enthusiast  
-🐍 Python Learner  
-💻 Aspiring Security Professional  
-
-### 📂 ~/skills
-
-🐍 Python  
-🐧 Linux  
-🌐 Networking  
-🛡️ Cybersecurity Fundamentals  
-🔍 Nmap  
-📡 Wireshark  
-🔧 Git & GitHub  
-
-### 🎯 ~/goal.txt
-
-> Learn continuously.  
-> Build practical projects.  
-> Improve cybersecurity skills.  
-> Become a skilled security professional.  
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VIJAY027TH&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=VIJAY027TH&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VIJAY027TH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/vijay-hacker-11140a368">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/iamvijay_4">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:vijayethicalhacker027@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Learning, building, and improving one project at a time.
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
